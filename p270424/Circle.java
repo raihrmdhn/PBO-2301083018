@@ -4,10 +4,6 @@
  */
 package pbo_2301083018.p270424;
 
-/**
- *
- * @author hafiz
- */
 public class Circle extends Shape {
     private int jari;
     private static float phi=3.14f;
