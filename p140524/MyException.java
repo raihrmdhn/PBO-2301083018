@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p140524;
 
-/**
- *
- * @author hafiz
- */
+
 public class MyException extends RuntimeException {
     
     public MyException(){
