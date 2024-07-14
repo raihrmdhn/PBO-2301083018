@@ -10,10 +10,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-/**
- *
- * @author hafiz
- */
+
 public class WriteFile {
    public static void main(String[]args) throws IOException{
         System.out.println("Nama File?");
