@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p180524;
 
-/**
- *
- * @author hafiz
- */
+
 public class FPB {
     public static int FPB(int x, int y){
         while(y!=0){
