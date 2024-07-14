@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p270424;
 
-/**
- *
- * @author hafiz
- */
+
 public class InterfaceExample {
     public static void main(String[] args){
         Relation myinteger = new MyInteger();
