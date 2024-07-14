@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p270424;
 
-/**
- *
- * @author hafiz
- */
+
 public abstract class Shape {
     public abstract String getName();
     public abstract float getArea();
