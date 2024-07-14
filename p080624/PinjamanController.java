@@ -7,10 +7,7 @@ package pbo_2301083018.p080624;
 import java.util.List;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
-/**
- *
- * @author hafiz
- */
+
 
 public class PinjamanController {
     private FormPinjaman formPinjaman;
