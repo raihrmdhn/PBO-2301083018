@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p270424;
 
-/**
- *
- * @author hafiz
- */
+
 public class Human extends LivingThing {
     public void walk(){
         System.out.println("Human Walk");
