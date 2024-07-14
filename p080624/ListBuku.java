@@ -7,10 +7,7 @@ package pbo_2301083018.p080624;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author hafiz
- */
+
 public class ListBuku {
     private List<Buku> data = new ArrayList();
     
