@@ -8,10 +8,7 @@ import java.util.List;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author hafiz
- */
+
 public class WarnetController {
    
     private FormWarnet formWarnet;
