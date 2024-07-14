@@ -6,10 +6,7 @@ package pbo_2301083018.p140524;
 
 import java.util.Scanner;
 
-/**
- *
- * @author hafiz
- */
+
 public class InputAngka {
     public static void main(String[] args){
         int angka;
