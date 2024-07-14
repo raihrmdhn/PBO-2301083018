@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p270424;
 
-/**
- *
- * @author hafiz
- */
+
 public interface Relation {
     public boolean isGreater(Object a,Object b);
     public boolean isLess(Object a,Object b);
