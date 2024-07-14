@@ -6,10 +6,7 @@ package pbo_2301083018.p020424;
 
 import java.util.Scanner;
 
-/**
- *
- * @author hafiz
- */
+
 public class BalokExample {
     public static void main(String[] args){
         int p,l,t,la;
