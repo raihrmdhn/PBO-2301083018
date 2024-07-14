@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p270224;
 
-/**
- *
- * @author hafiz
- */
+
 public class Variabel {
     public static void main(String[] args){
         int a = 5;
