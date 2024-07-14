@@ -4,10 +4,6 @@
  */
 package pbo_2301083018.p270224;
 
-/**
- *
- * @author hafiz
- */
 public class aritmatikaDemo {
     public static void main(String[] args){
         //sedikit angka
