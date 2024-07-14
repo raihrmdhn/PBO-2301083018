@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p080624;
 
-/**
- *
- * @author hafiz
- */
+
 public class Buku {
     private String kodeBuku;
     private String judulBuku;
