@@ -7,10 +7,7 @@ package pbo_2301083018.p250624;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author hafiz
- */
+
 public class WarnetDao {
     
     private List<Warnet> data = new ArrayList();
