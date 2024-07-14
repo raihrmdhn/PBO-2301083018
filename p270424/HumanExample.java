@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p270424;
 
-/**
- *
- * @author hafiz
- */
+
 public class HumanExample {
     public static void main(String[] args){
         Human human = new Human();
