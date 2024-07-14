@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p260324;
 
-/**
- *
- * @author hafiz
- */
+
 public class StudentRecord {
     private String name;
     private String address;
