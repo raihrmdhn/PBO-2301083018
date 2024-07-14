@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p180524;
 
-/**
- *
- * @author hafiz
- */
+
 public class FactorialIterasi {
     static int factorial(int n) {
         int result = 1;
