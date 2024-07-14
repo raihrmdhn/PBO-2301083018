@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p270424;
 
-/**
- *
- * @author hafiz
- */
+
 public class PersegiPanjang implements Relation {
     private int panjang;
     private int lebar;
