@@ -8,10 +8,7 @@ import javax.swing.JComboBox;
 import javax.swing.JTable;
 import javax.swing.JTextField;
 
-/**
- *
- * @author hafiz
- */
+
 public class FormAnggota extends javax.swing.JFrame {
 
     /**
