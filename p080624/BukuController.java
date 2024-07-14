@@ -10,10 +10,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
 
-/**
- *
- * @author hafiz
- */
+
 public class BukuController {
     private FormBuku formBuku;
     private Buku buku;
