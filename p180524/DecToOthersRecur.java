@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p180524;
 
-/**
- *
- * @author hafiz
- */
+
 public class DecToOthersRecur {
     static void printBase(int num, int base){
         String digits = "0123456789abcedef";
