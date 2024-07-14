@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p180524;
 
-/**
- *
- * @author hafiz
- */
+
 public class DecToOthers {
     public  static void main(String args[]){
         int num = 15;
