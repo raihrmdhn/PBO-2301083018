@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p270424;
 
-/**
- *
- * @author hafiz
- */
+
 public class MyInteger implements Relation{
     public boolean isGreater(Object a,Object b){
         return (int) a > (int) b;
