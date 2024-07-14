@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p270224;
 
-/**
- *
- * @author hafiz
- */
+
 public class HelloWorld {
     public static void main(String[] args){
         System.out.println("Hello World");
