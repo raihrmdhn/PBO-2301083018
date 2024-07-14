@@ -6,10 +6,7 @@ package pbo_2301083018.p190324;
 
 import java.util.Scanner;
 import java.util.Random;
-/**
- *
- * @author hafiz
- */
+
 public class ProsesArray1D {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
