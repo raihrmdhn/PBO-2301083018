@@ -6,10 +6,7 @@ package pbo_2301083018.p190324;
 
 import java.util.Scanner;
 
-/**
- *
- * @author hafiz
- */
+
 public class GanjilGenap {
     public static void main(String[] args){
         int a;
