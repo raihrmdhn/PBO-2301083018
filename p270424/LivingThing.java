@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p270424;
 
-/**
- *
- * @author hafiz
- */
+
 public abstract class LivingThing {
     public void breath(){
         System.out.println("Living Thing breathing...");
