@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p260324;
 
-/**
- *
- * @author hafiz
- */
+
 public class StudentRecordExample {
     public static void main(String[] args){
         StudentRecord student1 = new StudentRecord();
