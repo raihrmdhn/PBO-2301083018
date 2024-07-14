@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p020424;
 
-/**
- *
- * @author hafiz
- */
+
 public class Balok {
     private int panjang;
     private int lebar;
