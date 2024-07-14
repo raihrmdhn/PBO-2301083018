@@ -7,10 +7,7 @@ package pbo_2301083018.p080624;
 import javax.swing.JTable;
 import javax.swing.JTextField;
 
-/**
- *
- * @author hafiz
- */
+
 public class FormPinjaman extends javax.swing.JFrame {
 
     /**
