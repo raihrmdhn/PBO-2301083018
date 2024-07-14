@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p140524;
 
-/**
- *
- * @author hafiz
- */
+
 public class ThrowDemo {
     public static void main(String[] args){
         String input = "Invalid input";
