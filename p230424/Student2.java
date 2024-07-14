@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p230424;
 
-/**
- *
- * @author hafiz
- */
+
 public class Student2 extends StudentRecord {
     public Student2(){
         super("Tono","Padang");
