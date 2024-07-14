@@ -7,10 +7,7 @@ package pbo_2301083018.p040624;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author hafiz
- */
+
 public class AnggotaDao {
     private List<Anggota> data = new ArrayList();
     
