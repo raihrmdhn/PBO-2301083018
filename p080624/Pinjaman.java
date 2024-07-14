@@ -9,10 +9,7 @@ import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
 
 
-/**
- *
- * @author hafiz
- */
+
 public class Pinjaman {
     private String kodeAnggota;
     private String kodeBuku;
