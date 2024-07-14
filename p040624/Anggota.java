@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p040624;
 
-/**
- *
- * @author hafiz
- */
+
 public class Anggota {
     private String kodeAnggota;
     private String namaAnggota;
