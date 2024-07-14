@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p250624;
 
-/**
- *
- * @author hafiz
- */
+
 public class Warnet {
     
     private String kode;
