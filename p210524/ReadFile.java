@@ -10,10 +10,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.*;
 
-/**
- *
- * @author hafiz
- */
+
 public class ReadFile {
     public static void main(String args[]) throws IOException{
         System.out.println("Nama File yang akan dibaca?");
