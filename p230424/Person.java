@@ -4,10 +4,7 @@
  */
 package pbo_2301083018.p230424;
 
-/**
- *
- * @author hafiz
- */
+
 public class Person {
     protected String name;
     protected String address;
